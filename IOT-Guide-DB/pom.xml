@@ -1,6 +1,6 @@
 <!--
 
-    Copyright © 2019 The IOT Technical Guide Authors
+    Copyright © 2019-2020 The IOT Technical Guide Authors
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -29,7 +29,7 @@
     <artifactId>IOT-Guide-DB</artifactId>
     <packaging>jar</packaging>
 
-    <url>https://sanshengshui.github.io/</url>
+    <url>https://iot.mushuwei.cn/</url>
     <description>IOT Technical Guide - database of the era of the Internet of Everything</description>
 
 
@@ -41,7 +41,6 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>23.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>

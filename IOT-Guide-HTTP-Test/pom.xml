@@ -1,6 +1,6 @@
 <!--
 
-    Copyright © 2019 The IOT Technical Guide Authors
+    Copyright © 2019-2020 The IOT Technical Guide Authors
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -19,12 +19,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <name>IOT :: Guide :: HTTP :: Test</name>
+  <name>IOT Technology Guide :: Test</name>
   <groupId>com.sanshengshui</groupId>
   <artifactId>IOT-Guide-HTTP-Test</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <url>https://sanshengshui.github.io/</url>
+  <url>https://iot.mushuwei.cn/</url>
   <description>IOT Technical Guide - Test HTTP protocol of the era of the Internet of Everything</description>
 
   <properties>
